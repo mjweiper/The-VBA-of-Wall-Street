@@ -1,8 +1,5 @@
 # VBA Homework - The VBA of Wall Street
-Using VBA to create script to loop through stocks and analyze data.
-## Background
-
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. 
+Use VBA scripting to analyze real stock market data. 
 
 ## File
 
