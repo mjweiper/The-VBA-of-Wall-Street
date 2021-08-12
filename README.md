@@ -28,13 +28,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * You should also have conditional formatting that will highlight positive change in green and negative change in red.
 
-* The result should look as follows.
-
-![moderate_solution](Images/moderate_solution.png)
-
-## BONUS
-
-* Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
 
 Contact -
 mattweiper@gmail.com
