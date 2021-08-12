@@ -32,6 +32,10 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ![moderate_solution](Images/moderate_solution.png)
 
+## BONUS
+
+* Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % decrease" and "Greatest total volume".
+
 Contact -
 mattweiper@gmail.com
 
